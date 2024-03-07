@@ -84,8 +84,9 @@ h3 {
   line-height: 30px;
 }
 
-section {
+section h2 {
   color: #660cce;
   font-size: 22px;
   letter-spacing: 3px;
+  font-weight: 700;
 }
