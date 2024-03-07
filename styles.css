@@ -72,7 +72,6 @@ h1 {
 h2 {
   font-size: 32px;
   letter-spacing: 3px;
-  color: crimson;
 }
 
 h3 {
@@ -86,5 +85,5 @@ h3 {
 
 section,
 h2 {
-  color: #660cce;
+  color: crimson;
 }
