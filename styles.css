@@ -72,7 +72,7 @@ h1 {
 h2 {
   font-size: 32px;
   letter-spacing: 3px;
-  color: crimson;
+  color: chartreuse;
 }
 
 h3 {
@@ -86,4 +86,7 @@ h3 {
 
 section {
   color: #660cce;
+  font-size: 22px;
+  letter-spacing: 3px;
+  font-weight: 700;
 }
