@@ -94,3 +94,7 @@ section {
 #posters-images {
   margin-bottom: 20px;
 }
+
+li a {
+  word-wrap: break-word;
+}
